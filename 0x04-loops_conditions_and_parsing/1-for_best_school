@@ -1,2 +1,7 @@
 #!/usr/bin/env bash
-echo "Best School"
+# For loop of "Best School" 10 times
+
+for ((i=0; i<10; i++))
+do
+	echo "Best School"
+	done
